@@ -13,7 +13,7 @@ A simple and efficient Todo Application built using React and Redux Toolkit to m
 🔍 Filter Tasks – View All, Completed, or Pending todos.
 
 💾 Persistent State – Data saved using localStorage.
-::<img src="" width="100%" />
+::<img src="https://github.com/SwapnilpatilTech/todo-by-redux/blob/ccf54e9d028ba8d26adc475be2748e3eb4dbc0b5/Screenshot%202025-08-11%20004603.png" width="100%" />
 🛠️ Tech Stack
 React – UI development
 
